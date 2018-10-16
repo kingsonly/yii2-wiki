@@ -1,5 +1,5 @@
 {
-	"name": "asinfotrack/yii2-wiki",
+	"name": "kingsonly/yii2-wiki",
 	"type": "yii2-extension",
 	
 	"description": "Yii2-Wiki is a flexible implementation of a wiki for Yii2",
@@ -14,7 +14,7 @@
 		}
 	],
 	
-	"minimum-stability": "stable",
+	"minimum-stability": "dev",
 	"support": {
 		"source": "https://github.com/asinfotrack/yii2-wiki",
 		"issues": "https://github.com/asinfotrack/yii2-wiki/issues"
